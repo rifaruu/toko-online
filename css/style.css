@@ -1,0 +1,96 @@
+.warna1 {
+    background-color: #876445;
+}
+
+.warna2 {
+    background-color: #ca965c;
+}
+
+.warna3 {
+    background-color: #eec373;
+}
+
+.warna4 {
+    background-color: #f4dfba;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/banner.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner2 {
+    background-image: url('image/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Atur tinggi sesuai kebutuhan */
+}
+
+
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-bakso {
+    background: url("../image/bakso beranak.jpg"), linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-mie-ayam {
+    background: url("../image/mie-ayam-rendang.jpg"), linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-minuman {
+    background: url("../image/pisang ijo.jpeg"), linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
+
+.no-decoration:hover {
+    color: #eec373;
+}
+
+
+.text-harga {
+    font-size: 24px;
+    color: #b65806;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+
+.banner-produk {
+    height: 45vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/banner.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
